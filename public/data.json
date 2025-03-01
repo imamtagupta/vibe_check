@@ -1,0 +1,33 @@
+[
+    {
+      "index": 0,
+      "question": "Your partner sends ‘k’ as a reply. What’s your next move?",
+      "options": ["Double text to check if they're mad", "Ignore and move on", "Reply with an even shorter ‘.’", "Call them immediately"],
+      "answer": "Double text to check if they're mad"
+    },
+    {
+      "index": 1,
+      "question": "It’s date night. Your partner says, ‘I don’t care, you pick.’ What do you do?",
+      "options": ["Test them by choosing their least favorite place", "Decide because you’re the responsible one", "Say ‘same’ and now you’re both stuck", "Suggest three options and make them choose"],
+      "answer": "Suggest three options and make them choose"
+    },
+    {
+      "index": 2,
+      "question": "They forgot your anniversary but got you your favorite snack. What’s the move?",
+      "options": ["Forgive instantly because snacks = love", "Give them the silent treatment for a bit", "Say ‘It’s fine’ but it’s definitely NOT fine", "Hold it over them forever"],
+      "answer": "Forgive instantly because snacks = love"
+    },
+    {
+      "index": 3,
+      "question": "Your partner says they don’t like your favorite show. How do you react?",
+      "options": ["Reconsider the entire relationship", "Respectfully agree to disagree", "Binge-watch it anyway and give them FOMO", "Slowly convert them with the best episodes"],
+      "answer": "Slowly convert them with the best episodes"
+    },
+    {
+      "index": 4,
+      "question": "Your crush sends a ‘goodnight 😊’ text. What does it mean?",
+      "options": ["They like you back, duh!", "They’re just being nice", "They’re testing the waters", "Time to overanalyze for the next 3 hours"],
+      "answer": "Time to overanalyze for the next 3 hours"
+    }
+  ]
+  
